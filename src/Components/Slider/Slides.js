@@ -62,8 +62,6 @@ const slidesInfo = [
     src:"https://cdn-icons-png.flaticon.com/64/4727/4727387.png",
     alt:"Kanban",
   }
-
-
 ]
 
 const slides = slidesInfo.map(slide => (
