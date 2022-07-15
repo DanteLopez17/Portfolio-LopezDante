@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.1a4bbc39.css",
-    "main.js": "/portfolio-react/static/js/main.ee373f08.js",
-    "static/media/coding.mp4": "/portfolio-react/static/media/coding.1d0966cf186ab93b6397.mp4",
-    "static/media/Foto.jpg": "/portfolio-react/static/media/Foto.114aca6502defbc114d4.jpg",
-    "index.html": "/portfolio-react/index.html",
-    "main.1a4bbc39.css.map": "/portfolio-react/static/css/main.1a4bbc39.css.map",
-    "main.ee373f08.js.map": "/portfolio-react/static/js/main.ee373f08.js.map"
+    "main.css": "/Portfolio-LopezDante/static/css/main.1a4bbc39.css",
+    "main.js": "/Portfolio-LopezDante/static/js/main.a805bead.js",
+    "static/media/coding.mp4": "/Portfolio-LopezDante/static/media/coding.1d0966cf186ab93b6397.mp4",
+    "static/media/Foto.jpg": "/Portfolio-LopezDante/static/media/Foto.114aca6502defbc114d4.jpg",
+    "index.html": "/Portfolio-LopezDante/index.html",
+    "main.1a4bbc39.css.map": "/Portfolio-LopezDante/static/css/main.1a4bbc39.css.map",
+    "main.a805bead.js.map": "/Portfolio-LopezDante/static/js/main.a805bead.js.map"
   },
   "entrypoints": [
     "static/css/main.1a4bbc39.css",
-    "static/js/main.ee373f08.js"
+    "static/js/main.a805bead.js"
   ]
 }
