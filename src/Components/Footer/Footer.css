@@ -15,14 +15,14 @@
   width: 70%;
   margin: 0 auto;
 }
-.footer-info > h1 {
-  padding-bottom: 15px;
-}
 .footer-contact {
   font-size: 22px;
   padding: 100px 0 30px 50px;
   width: 70%;
   margin: 0 auto;
+}
+.footer-contact > h5{
+  margin-top: 20px;
 }
 .footer-sns {
   width: 70%;
@@ -40,7 +40,7 @@
   width: 100%;
   grid-template-columns: 1fr 1fr 1fr;
 }
-.linkedin, .twitter, .facebook {
+.linkedin, .fa-solid, .facebook {
   color: white;
   font-size: 35px;
   margin: 0 auto;

@@ -3,28 +3,72 @@ import "./Slider.css";
 
 const slidesInfo = [
   {
-    src:"https://cdn.pixabay.com/photo/2013/01/29/00/47/google-76517__340.png",
-    alt:"Google",
-    desc:"Google",
+    src:"https://cdn-icons-png.flaticon.com/64/5968/5968267.png",
+    alt:"Html5",
   },
   {
-    src:"https://cdn.pixabay.com/photo/2016/12/19/08/39/mobile-phone-1917737__340.jpg",
-    alt:"Social",
-    desc:"Social",
+    src:"https://cdn-icons-png.flaticon.com/64/5968/5968242.png",
+    alt:"Css3",
   },
   {
-    src:"https://cdn.pixabay.com/photo/2013/01/29/09/09/facebook-76532__340.png",
-    alt:"Facebook",
-    desc:"Facebook",
+    src:"https://cdn-icons-png.flaticon.com/64/5968/5968292.png",
+    alt:"JavaScript",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/5968/5968672.png",
+    alt:"Bootstrap",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/718/718064.png",
+    alt:"Api",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/2748/2748383.png",
+    alt:".NET",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/6132/6132221.png",
+    alt:"C#",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/226/226777.png",
+    alt:"Java",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/5968/5968306.png",
+    alt:"SqlServer",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/919/919836.png",
+    alt:"MySql",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/5968/5968342.png",
+    alt:"PostgreSql",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/733/733553.png",
+    alt:"Github",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/5968/5968853.png",
+    alt:"GitLab",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/2620/2620481.png",
+    alt:"Scrum",
+  },
+  {
+    src:"https://cdn-icons-png.flaticon.com/64/4727/4727387.png",
+    alt:"Kanban",
   }
+
+
 ]
 
 const slides = slidesInfo.map(slide => (
   <div className="slide-container">
     <img src={slide.src} alt={slide.alt}/>
-    <div className="slide-desc">
-      <span>{slide.desc}</span>
-    </div>
   </div>
 ))
 
